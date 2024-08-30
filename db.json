@@ -1,0 +1,173 @@
+{
+  "pizza": [
+    {
+      "id": "1",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Pleasing-Potato-Pizza_EXPS_SDFM18_9857_D10_04_2b.jpg",
+      "note": "African Peri Peri Veg Pizza. Add. Cheesy Macaroni Veg Pizza. Paneer, Onions, Capsicum, Olives, Baby Corn With Loads Of Cheese.",
+      "name": "Cheesy Pizza",
+      "price": 500
+    },
+    {
+      "id": "2",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Loaded-Mexican-Pizza_EXPS_TOHEEVCB23_39441_P2_MD_05_04_1b.jpg",
+      "note": "Golden Corn Pizza. If you love golden sweet corn, you will surely love the combination of 100% authentic mozzarella cheese",
+      "name": "Golden corn pizza",
+      "price": 500
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQE1o8bPTer-IffzqB61mUDMF8fQkZtX0dJoHq0DY2lMnvhglNw",
+      "note": "This easy pizza with arugula is one of our favorites! You might be surprised, but raw arugula is a popular pizza topping in Italy",
+      "name": "Pizza with Arugula",
+      "price": 500
+    },
+    {
+      "id": "4",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Pesto-Vegetable-Pizza_EXPS_QEBZ20_26064_E01_24_3b-1.jpg",
+      "note": "Easy Pesto Pizza. We kneaded basil, oregano and Parmesan cheese into packaged bread dough for this full-flavored crust.",
+      "name": "Pesto Veggie Pizza",
+      "price": 500
+    },
+    {
+      "id": "5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdbRU4BLiTAf408FS9iAO1fWCIDegke2N-lQ&s",
+      "note": "Mushroom lovers will adore this pizza, loaded with sautéed mushrooms, onions, and bell peppers.",
+      "name": "Mushroom Delight",
+      "price": 550
+    },
+    {
+      "id": "6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReF2syTHRVZdsh7lve-EaGYwkstnphpv3YlA&s",
+      "note": "Roasted vegetables like zucchini, eggplant, and red bell peppers add a smoky flavor to this pizza.",
+      "name": "Roasted Veggie Pizza",
+      "price": 520
+    },
+    {
+      "id": "7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNWPoLNlevpRQEJZ6lTD7x_pr4hvwE0HHtA&s",
+      "note": "A Greek-inspired pizza with spinach, feta cheese, and a sprinkle of olives.",
+      "name": "Spinach and Feta",
+      "price": 580
+    }
+  ],
+  "nonvegPizzas": [
+    {
+      "id": "1",
+      "name": "Chicken Tikka",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTi-9gOlon_KoAbkvJOt4_uJdt9d7dH6iKOULrFy7NaxBn0V6fF2zq8dlWFDsqHyu1M4&usqp=CAU",
+      "price": 250
+    },
+    {
+      "id": "2",
+      "name": "Meat Lover's",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJP2qqApcDaOtdR4SN2JfNCMDM2QYbNV0dw&s",
+      "price": 350
+    },
+    {
+      "id": "3",
+      "name": "Pepperoni",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMH7JdaHKLeOHtjJqJAZeexmynJEhyibdj-T8PaceoRpwPoPuoojY_WMFnfdVnzcpsBo&usqp=CAU",
+      "price": 200
+    },
+    {
+      "id": "4",
+      "name": "Sausage",
+      "image": "https://whatsgabycooking.com/wp-content/uploads/2020/12/WGC-Sausage-Deep-Dish-Pizza-Hero-1-copy-2.jpg",
+      "price": 220
+    },
+    {
+      "id": "5",
+      "name": "Bacon Cheeseburger",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdQZdCHwmsMmXn7fREkVbZnMAeKabYhDcag&s",
+      "price": 300
+    },
+    {
+      "id": "6",
+      "name": "Pepperoni",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3CwXP0LWAfk6-jYzJeuvJ5H0vBhfga11Czg&s",
+      "price": 200
+    },
+    {
+      "id": "7",
+      "name": "Sausage",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Du_XLXqpo30bOkeTmMyABO8tlgvILFxVAA&s",
+      "price": 220
+    },
+    {
+      "id": "8",
+      "name": "Bacon Cheeseburger",
+      "image": "https://peaceloveandlowcarb.com/wp-content/uploads/2021/12/Bacon-Cheeseburger-Pizza-37-scaled.jpg",
+      "price": 300
+    }
+  ],
+  "drink": [
+    {
+      "id": "1",
+      "name": "Coca-Cola",
+      "image": "https://www.rd.com/wp-content/uploads/2018/02/The-Real-Reason-the-Coca-Cola-Logo-is-Red_570538087_tok-anas-ft.jpg",
+      "price": 150
+    },
+    {
+      "id": "2",
+      "name": "Pepsi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lJukJ_C8HCMr9nt-Fks_n1U0zloNFgWjvA&s",
+      "price": 150
+    },
+    {
+      "id": "3",
+      "name": "Sprite",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUKvc51Po_aU0y9uVr5HgQCiPzkp6vKYlZXEoq_hAtjxrzUoLMttrNYK7leg9x58z1tc&usqp=CAU",
+      "price": 150
+    },
+    {
+      "id": "4",
+      "name": "Iced Tea",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3oEYTHqXpB0RCpH1ctWHY9CmRBehQHfjOA&s",
+      "price": 100
+    },
+    {
+      "id": "5",
+      "name": "Fresh Lemonade",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D6udOlrylua0Nw2d3czRHONiGwGV0uKY-w&s",
+      "price": 200
+    },
+    {
+      "id": "6",
+      "name": "Mocha Frappuccino",
+      "image": "https://m.media-amazon.com/images/I/51wLzfGcBDS.jpg",
+      "price": 250
+    },
+    {
+      "id": "7",
+      "name": "Pineapple Juice",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhn4-yODIpyqPyqlCkYcAPUpWsA9Bsx162XA&s",
+      "price": 180
+    },
+    {
+      "id": "8",
+      "name": "Iced Cappuccino",
+      "image": "https://st4.depositphotos.com/2894449/21662/i/450/depositphotos_216620446-stock-photo-cup-iced-cappuccino-coffee-put.jpg",
+      "price": 220
+    }
+  ],
+  "newitems": [
+    {
+      "id": "1",
+      "name": "pasta",
+      "price": 600,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs2paowiODEqEOJ082fLEWgrlBjvBlGd2GrQ&s"
+    },
+    {
+      "id": "2",
+      "name": "pasdfs",
+      "price": 5445,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4MV3Mc9zbB40-mkHljlDq72CAZ68iWKuGw&s"
+    },
+    {
+      "id": "4343",
+      "name": "adfsafd",
+      "price": 34534,
+      "imageUrl": "https://bird.png"
+    }
+  ]
+}

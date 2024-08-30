@@ -1,0 +1,58 @@
+.navp{
+    /* border: 2px red solid; */
+    padding: 0px 0px;
+    
+}
+.nav-color{
+    background: #37475a;
+    box-shadow: 0px 0px 10px rgb(3, 3, 3);
+    border-radius: 0px 0px 15px 15px;
+}
+.img-logo{
+    object-fit: cover;
+    width: 100px;
+}
+.navo{
+    /* border: rgb(4, 0, 255) 2px solid; */
+    box-shadow: 0px 0px 5px white ;
+    border-radius: 15px 0px 15px 0px;
+    width: 150px;
+    margin: 0px 4px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+    background-color: #131921;
+}
+.navo:hover {
+    background-color: #048b04;
+    box-shadow: 0px 0px 10px white;
+    transition: 0.3s;
+}
+.navo:active{
+    background-color: red;
+}
+.navo-contact{
+     /* border: rgb(4, 0, 255) 2px solid; */
+     box-shadow: 0px 0px 5px;
+     border-radius: 7px 7px 7px 7px;
+     width: 150px;
+     margin: 0px 4px;
+     margin-left: 60px;
+     text-align: center;
+     font-size: 17px;
+     font-weight: 600;
+     background-color: rgb(254, 214, 123);
+}
+.style-nav:focus{
+    background-color:#048b04;
+    box-shadow: 0px 0px 10px white;
+    transition: 0.3s;
+    border-radius: 15px 0px 15px 0px;
+
+   
+}
+.style-nav #nav-tag{
+    color:white;
+   
+}

@@ -1,0 +1,40 @@
+.heading{
+    /* border: red 2px solid; */
+    padding: 5px;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px black;
+}
+.veg-img{
+    /* border: 2px red solid; */
+    height: 150px;
+    object-fit: cover;
+}
+.btn-style{
+    /* border: 2px red solid; */
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+.buy-btn1{
+    padding: 5px 7px;
+    border-radius: 2px;
+    color: white;
+    background-color: #2aac02;
+    font-weight: bolder;
+    
+}
+.buy-btn{
+    padding: 5px 7px;
+    border-radius: 15px;
+    color: white;
+    background-color: #37475a;
+    font-weight: bolder;
+    
+}
+.buy-btn:hover{
+    padding: 5px 15px;
+    transition: .3s;
+
+}
+

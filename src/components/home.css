@@ -1,0 +1,140 @@
+.carousel-item {
+  /* width: 400px; */
+  height: 400px;
+}
+.carousel-it{
+  margin: 20px 0px;
+}
+.pizza-type {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 7px auto;
+  object-fit: cover;
+  overflow: hidden;
+}
+.card-body {
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+.card-body {
+  display: flex;
+  /* border: 2px solid red; */
+  background-color: rgb(151, 238, 151);
+}
+.card {
+  margin: 10px;
+  background-color: antiquewhite;
+}
+.card-shadow:hover {
+  box-shadow: 0px 0px 5px black;
+  cursor: pointer;
+}
+.more-btn {
+  text-align: center;
+  margin: 5px 0px;
+}
+.type-title {
+  /* border: 2px solid red; */
+  padding: 3px 3px;
+}
+
+/* --------------------btn---------------- */
+.button {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+/* ------------------ mobile app ------------- */
+.download-app{
+    text-align: center;
+}
+.tt {
+  padding: 9px 0px;
+  text-align: center;
+}
+.mobile-app {
+  justify-content: center;
+  text-align: center;
+}
+
+.app-image {
+  display: flex;
+  justify-content: center;
+}
+
+.mobile-app-image {
+  width: 400px;
+  margin: 10px 0px;
+  border-radius: 7px;
+  box-shadow: 0px 0px 10px black;
+}
+.form-fill{
+    border: 2px solid red;
+    margin: 20px 20px;
+    
+  }
+  
+  /* -----------------------footer------------------------------*/
+  
+.icon {
+  width: 20px;
+}
+.social-midea {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+}
+.icon-s {
+  margin: 0px 5px;
+}
+
+.footer-font{
+  color: white;
+  background-color: #37475a;
+}
+.footer-foorter{
+  background-color: #37475a;
+  color: white;
+  
+}
+.footer{
+  border: 2px solid red;
+  margin-left: 5px;
+  
+}
