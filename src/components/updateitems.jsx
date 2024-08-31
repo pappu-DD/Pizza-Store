@@ -33,7 +33,7 @@ function UpdateItems() {
     <>
       {/* -------------------veg pizza---------------------- */}
       <div className="container mt-4 row">
-        <h2 className="heading">new Items</h2>
+        <h2 className="heading">Updated items</h2>
         {newItems.map((item) => (
           <div className="card-group col-md-3" key={item.id}>
             <div className="card">

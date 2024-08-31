@@ -35,7 +35,6 @@ function App() {
         <Route path="/updateitems" element={<UpdateItems />} />
         <Route path="/deleteitem" element={<Deleteitems />} />
         <Route path="/contact" element={<Contact />} />
-
         <Route path="/updateitem/:id" component={UpdateItemForm} />
      
       </Routes>
